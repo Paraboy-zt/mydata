@@ -52,7 +52,7 @@ def sort_file(files):
 def match(f548, fcam):
     #d=850000000     #ars548
     #d=50000000       #arbe
-    #d=0
+    d=0
     
     res=[]
     # 548目录中的内容匹配cam中的内容，先找到全部相同的
